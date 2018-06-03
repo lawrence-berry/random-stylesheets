@@ -1,0 +1,18 @@
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+.demo-content {
+  background: #f1f1fc;
+  color:#5755d9;
+  width: 50%;
+  height: 50%;
+}
+.demo-content-header {
+  background: #5755d9;
+  color: #fff;
+  padding: 5px;
+  padding-left: 10px;
+}
